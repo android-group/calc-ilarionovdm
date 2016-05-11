@@ -1,4 +1,4 @@
-package com.example.dmtou.calc;
+package ru.android_group.dmtou.calc;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

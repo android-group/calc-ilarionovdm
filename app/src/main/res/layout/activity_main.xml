@@ -7,7 +7,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.example.dmtou.calc.MainActivity"
+    tools:context="ru.android_group.dmtou.calc.MainActivity"
     android:orientation="vertical">
 
     <LinearLayout

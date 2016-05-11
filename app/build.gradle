@@ -5,7 +5,7 @@ android {
     buildToolsVersion "23.0.3"
 
     defaultConfig {
-        applicationId "com.example.dmtou.calc"
+        applicationId "ru.android_group.dmtou.ru.android_group.dmtou.calc"
         minSdkVersion 15
         targetSdkVersion 23
         versionCode 1
